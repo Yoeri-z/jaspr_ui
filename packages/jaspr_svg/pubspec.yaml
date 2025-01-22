@@ -5,7 +5,7 @@ repository: https://github.com/FlutterPlaza/jasprfire/tree/main/packages/jaspr_s
 homepage: https://www.flutterplaza.com/
 
 environment:
-  sdk: '>=3.5.4 <4.0.0'
+  sdk: '>=3.5.3 <4.0.0'
 
 dependencies:
   jaspr: ^0.17.0
